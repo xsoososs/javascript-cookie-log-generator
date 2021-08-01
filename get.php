@@ -3,7 +3,7 @@ $servername = "";
 $username = "";
 $password = "";
 $dbname = "";
-$id = $_REQUEST['id'] ;
+$id = $_REQUEST['id'] ;https://www.googleadservices.com/pagead/conversion_async.js
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
